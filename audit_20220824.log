@@ -1,0 +1,24 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Aug 24,2022	00:11:27	189.202.91.136	edgar_gomez	users	login
+Aug 24,2022	00:12:27	189.202.91.136	edgar_gomez	users	login
+Aug 24,2022	00:27:32	189.202.91.136	edgar_gomez	registro	add	488	texto		----------------------------------------------------------------------------------- • 220823.1713.2 • MLP • Edgarr • Cinthia  • MLP•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:   S035795                  --     DTS:   5GZCZ53B23S90
+Aug 24,2022	00:27:32	189.202.91.136	edgar_gomez	registro	add	488	tipo_de_documento		4
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	id	486
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	folio	
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	fecha	
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	diasemana	
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	texto	----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:                     -- 
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	importe	
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	deleted_at	
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	created_at	
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	updated_at	
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	tipo_de_documento	1
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	images_fs	
+Aug 24,2022	00:27:44	189.202.91.136	edgar_gomez	registro	delete	486	documents_fs	
+Aug 24,2022	00:54:56	189.202.91.136	edgar_gomez	registro	add	489	texto		----------------------------------------------------------------------------------- •220823.1729.2  • Documentacion Vehicular • Edgarr •Shara Connor • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    J071517                 -- 
+Aug 24,2022	00:54:56	189.202.91.136	edgar_gomez	registro	add	489	tipo_de_documento		1
+Aug 24,2022	18:50:29	189.202.91.136	edgar_gomez	users	login
+Aug 24,2022	20:44:25	189.202.91.136	edgar_gomez	users	login
+Aug 24,2022	22:23:17	189.202.91.136	edgar_gomez	users	login
+Aug 24,2022	22:23:29	189.202.91.136	edgar_gomez	registro	add	490	texto		----------------------------------------------------------------------------------- • 220824.1353.3 • ¥ • Documentacion Vehicular • Alejandro Roque Virgen • Cliente Operador • DCVH•0000•220824•F957644     -----------------------------------------------------------------------------------  17M:   F95
+Aug 24,2022	22:23:29	189.202.91.136	edgar_gomez	registro	add	490	tipo_de_documento		1

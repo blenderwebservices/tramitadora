@@ -1,0 +1,33 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jan 31,2023	01:04:22	189.202.91.200	edgar_gomez	users	login
+Jan 31,2023	01:08:57	189.202.91.200	edgar_gomez	registro	add	1264	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:   J161632              
+Jan 31,2023	01:08:57	189.202.91.200	edgar_gomez	registro	add	1264	tipo_de_documento		1
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	id	1264
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	folio	
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	fecha	
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	diasemana	
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	texto	----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:   J161632              
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	importe	
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	deleted_at	
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	created_at	
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	updated_at	
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	tipo_de_documento	1
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	images_fs	
+Jan 31,2023	01:09:38	189.202.91.200	edgar_gomez	registro	delete	1264	documents_fs	
+Jan 31,2023	01:55:31	189.202.91.200	edgar_gomez	users	login
+Jan 31,2023	01:55:34	189.202.91.200	edgar_gomez	registro	add	1265	texto		----------------------------------------------------------------------------------- • 230130.1536.1.•G•7 • Documentacion Vehicular • Adan Sanchez Quijas • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    H005
+Jan 31,2023	01:55:34	189.202.91.200	edgar_gomez	registro	add	1265	tipo_de_documento		1
+Jan 31,2023	17:11:15	189.202.91.200	edgar_gomez	users	login
+Jan 31,2023	18:09:47	189.202.91.200	edgar_gomez	users	login
+Jan 31,2023	18:58:34	189.202.91.200	edgar_gomez	registro	add	1266	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • MLP • Operador • Cliente Operador • MLP•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:   V008185                  --     DTS:   3VW
+Jan 31,2023	18:58:34	189.202.91.200	edgar_gomez	registro	add	1266	tipo_de_documento		4
+Jan 31,2023	19:16:28	189.202.91.200	edgar_gomez	users	login
+Jan 31,2023	19:42:11	189.202.91.200	edgar_gomez	registro	add	1267	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Regularizacion • Operador • Cliente • Operardor • RGLRZ•0000•000000•0000000 • CURP:                                      https://www.gob.mx/curp/   • RFC:                                        http
+Jan 31,2023	19:42:11	189.202.91.200	edgar_gomez	registro	add	1267	tipo_de_documento		5
+Jan 31,2023	19:48:02	189.202.91.200	edgar_gomez	users	login
+Jan 31,2023	19:48:06	189.202.91.200	edgar_gomez	registro	add	1268	texto		----------------------------------------------------------------------------------- • 300123.1246.1 Ø1  • Documentacion Vehicular • Katya Barraza Elizalde • Cliente Operador • DCVH•0000•300123•F944679     -----------------------------------------------------------------------------------  17M:     F
+Jan 31,2023	19:48:06	189.202.91.200	edgar_gomez	registro	add	1268	tipo_de_documento		1
+Jan 31,2023	20:09:50	189.202.91.200	edgar_gomez	users	login
+Jan 31,2023	20:09:53	189.202.91.200	edgar_gomez	registro	add	1269	texto		----------------------------------------------------------------------------------- •230131.1136.2•G• • Documentacion Vehicular • Luis Gonzalez • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    T229039      
+Jan 31,2023	20:09:53	189.202.91.200	edgar_gomez	registro	add	1269	tipo_de_documento		1
+Jan 31,2023	21:08:36	189.202.91.200	edgar_gomez	users	login

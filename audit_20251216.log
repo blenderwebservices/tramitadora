@@ -1,0 +1,26 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Dec 16,2025	01:34:07	187.250.250.56	edgar_gomez	users	login
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	id	647
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	folio	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	fecha	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	diasemana	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	texto	----------------------------------------------------------------------------------- • 220920.1422.2 •Ø1 • Regularizacion • Operador • Cliente • Operardor • RGLRZ•0000•220920•N170972 • https://www.gob.mx/sesnsp/es/articulos/regularizacion-de-vehiculos-usados-de-procedencia-extranjera?idiom=es -------
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	importe	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	deleted_at	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	created_at	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	updated_at	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	tipo_de_documento	5
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	images_fs	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	647	documents_fs	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	id	1676
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	folio	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	fecha	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	diasemana	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	texto	----------------------------------------------------------------------------------- • 777777.7777.7 • Regularizacion • Operador • Cliente • Operardor • RGLRZ•0000•000000•0000000 • CURP:                                      https://www.gob.mx/curp/   • RFC:                                        http
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	importe	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	deleted_at	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	created_at	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	updated_at	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	tipo_de_documento	5
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	images_fs	
+Dec 16,2025	02:33:41	187.250.250.56	edgar_gomez	registro	delete	1676	documents_fs	

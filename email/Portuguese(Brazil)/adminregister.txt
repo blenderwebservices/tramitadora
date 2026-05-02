@@ -1,0 +1,13 @@
+Notificação sobre seu registro
+
+Usuário resgistrado em %url%
+
+Id: %id_value%
+Fullname: %fullname_value%
+Last Name: %last_name_value%
+Groupid: %groupid_value%
+Modified At: %modified_at_value%
+Created At: %created_at_value%
+Deleted At: %deleted_at_value%
+Username: %username_value%
+Email: %email_value%

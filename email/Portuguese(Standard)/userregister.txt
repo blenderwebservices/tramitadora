@@ -1,0 +1,17 @@
+Notificação de registo
+
+Foi registado com utilizador %url%
+
+Clique neste link para finalizar o registo e confirmar a criação da conta:
+%activateurl%
+Senão for possível clicar neste link, copie e cole-o na janela do seu browser de internet.
+
+Id: %id_value%
+Fullname: %fullname_value%
+Last Name: %last_name_value%
+Groupid: %groupid_value%
+Modified At: %modified_at_value%
+Created At: %created_at_value%
+Deleted At: %deleted_at_value%
+Username: %username_value%
+Email: %email_value%

@@ -1,0 +1,24 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Dec 26,2022	16:32:15	189.202.91.200	edgar_gomez	users	login
+Dec 26,2022	16:49:59	189.202.91.200	edgar_gomez	users	login
+Dec 26,2022	16:56:55	189.202.91.200	edgar_gomez	registro	add	1180	texto		----------------------------------------------------------------------------------- • 221226.0850.1•Ø3 • Documentacion Vehicular • Brenda De Monaco • Cliente Operador • DCVH•0000•221226•0000000     -----------------------------------------------------------------------------------  17M:             
+Dec 26,2022	16:56:55	189.202.91.200	edgar_gomez	registro	add	1180	tipo_de_documento		1
+Dec 26,2022	18:31:44	189.202.91.200	edgar_gomez	users	login
+Dec 26,2022	18:31:47	189.202.91.200	edgar_gomez	registro	add	1181	texto		----------------------------------------------------------------------------------- • 221226.0839.1.G. • Regularizacion • Ragnarr Loobrok Sigurdsson • Cliente • Operardor • RGLRZ•0000•000000•0000000 • CURP:                                      https://www.gob.mx/curp/   • RFC:                       
+Dec 26,2022	18:31:47	189.202.91.200	edgar_gomez	registro	add	1181	tipo_de_documento		5
+Dec 26,2022	19:07:20	189.202.91.200	edgar_gomez	users	login
+Dec 26,2022	19:12:11	189.202.91.200	edgar_gomez	users	login
+Dec 26,2022	19:42:26	189.202.91.200	edgar_gomez	registro	add	1182	texto		----------------------------------------------------------------------------------- • 221226.1135.1 • ¥ • Documentacion Vehicular • Aldo Gómez Pérez • Cliente Operador • DCVH•0000•221226•J121431     -----------------------------------------------------------------------------------  17M:   J121431  
+Dec 26,2022	19:42:26	189.202.91.200	edgar_gomez	registro	add	1182	tipo_de_documento		1
+Dec 26,2022	19:56:04	189.202.91.200	edgar_gomez	users	login
+Dec 26,2022	19:56:07	189.202.91.200	edgar_gomez	registro	add	1183	texto		----------------------------------------------------------------------------------- • 221226.1032.1•G• • Regularizacion • Ragnarr Loobrok Sigurdsson • Cliente • Operardor • RGLRZ•0000•000000•0000000 • CURP:                                      https://www.gob.mx/curp/   • RFC:                       
+Dec 26,2022	19:56:07	189.202.91.200	edgar_gomez	registro	add	1183	tipo_de_documento		5
+Dec 26,2022	21:56:51	189.202.91.200	edgar_gomez	registro	add	1184	texto		----------------------------------------------------------------------------------- • 221226.1314.1•G• • Regularizacion • LORENA ROJAS NAVA • Cliente • Operardor • RGLRZ•0000•000000•0000000 • CURP:                                      https://www.gob.mx/curp/   • RFC:                                
+Dec 26,2022	21:56:51	189.202.91.200	edgar_gomez	registro	add	1184	tipo_de_documento		5
+Dec 26,2022	23:06:21	189.202.91.200	edgar_gomez	users	login
+Dec 26,2022	23:07:57	189.202.91.200	edgar_gomez	registro	add	1185	texto		----------------------------------------------------------------------------------- •221226.1437.1•G• • Regularizacion • Operador • Cliente • Operardor • RGLRZ•0000•000000•0000000 • CURP:                                      https://www.gob.mx/curp/   • RFC:                                        ht
+Dec 26,2022	23:07:57	189.202.91.200	edgar_gomez	registro	add	1185	tipo_de_documento		5
+Dec 26,2022	23:28:00	189.202.91.200	edgar_gomez	users	login
+Dec 26,2022	23:28:05	189.202.91.200	edgar_gomez	users	login
+Dec 26,2022	23:35:22	189.202.91.200	edgar_gomez	registro	add	1186	texto		----------------------------------------------------------------------------------- • 221226.1528.1•Ø3 • Documentacion Vehicular • Sharah Connor • Cliente Operador • DCVH•0000•221226•S060189     -----------------------------------------------------------------------------------  17M:     S060189    
+Dec 26,2022	23:35:22	189.202.91.200	edgar_gomez	registro	add	1186	tipo_de_documento		1

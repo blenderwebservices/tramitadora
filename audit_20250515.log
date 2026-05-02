@@ -1,0 +1,18 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+May 15,2025	17:47:35	201.170.90.39	edgar_gomez	users	login
+May 15,2025	17:49:58	201.170.90.39	edgar_gomez	users	login
+May 15,2025	19:11:53	201.170.90.39	edgar_gomez	users	login
+May 15,2025	20:20:48	201.170.90.39	edgar_gomez	users	login
+May 15,2025	22:58:21	201.170.90.39	edgar_gomez	users	login
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	id	1463
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	folio	
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	fecha	
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	diasemana	
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	texto	----------------------------------------------------------------------------------- • 240510.1837.5 • ¥ • Documentacion Vehicular • Carra Fermin • Cliente • Operardor • Cliente • Operardor • DEPICITOS                                          •   https://www.gob.mx/banjercito/articulos/sistema-de-imp
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	importe	
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	deleted_at	
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	created_at	
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	updated_at	
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	tipo_de_documento	7
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	images_fs	
+May 15,2025	23:37:54	201.170.90.39	edgar_gomez	registro	delete	1463	documents_fs	

@@ -1,0 +1,5 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jul 18,2023	17:54:54	189.202.90.200	edgar_gomez	users	login
+Jul 18,2023	18:26:39	189.202.90.200	edgar_gomez	registro	add	1690	texto		----------------------------------------------------------------------------------- • 230718.1103.2 • ¥ • Documentacion Vehicular • MLP • Cintia Alvarez • DCVH•0000•230718•V091174     -----------------------------------------------------------------------------------  17M:   V091174                 
+Jul 18,2023	18:26:39	189.202.90.200	edgar_gomez	registro	add	1690	tipo_de_documento		1
+Jul 18,2023	19:34:15	189.202.90.200	edgar_gomez	users	login

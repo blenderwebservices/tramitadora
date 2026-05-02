@@ -1,0 +1,14 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Oct 17,2025	20:54:50	187.250.199.63	edgar_gomez	users	login
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	id	2684
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	folio	
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	fecha	
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	diasemana	
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	texto	----------------------------------------------------------------------------------- • 250122.1625.3 • Ø • • Documentacion Vehicular • Ivan Pita • Benito Nava Grappin • DCVH•0000•250122•C935371  https://tramitesdigitales.sat.gob.mx/Sicofi.ValidacionCFD/ValidacionUnitaria.aspx    ---------------------
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	importe	
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	deleted_at	
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	created_at	
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	updated_at	
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	tipo_de_documento	1
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	images_fs	
+Oct 17,2025	21:18:25	187.250.199.63	edgar_gomez	registro	delete	2684	documents_fs	

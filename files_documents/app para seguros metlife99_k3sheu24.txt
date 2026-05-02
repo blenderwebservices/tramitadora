@@ -1,0 +1,18 @@
+hombre o mujer
+fumador o no fumador
+edad
+cuanto es lo que quieres como suma asegurada
+   desde 150000, 200, 250, 300, 350, 400, 450, 500
+
+   mas de esto se sumariza
+agregar las coberturas adicionales
+   gastos funerarios 35% de la suma asegurada 
+   cancer   
+   triple indemnizacion por muerte accidental
+   invalidez total
+   muerte colectiva y perdidas organicas
+   excencion 
+   garantia escolar de 150, 200, ...
+   enfermedades graves 100
+   y cirugias, 30
+   gastos funerarios para padres, para hijos

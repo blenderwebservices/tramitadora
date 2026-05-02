@@ -1,0 +1,5 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Nov 20,2022	19:44:15	201.162.236.232	edgar_gomez	users	login
+Nov 20,2022	20:09:55	201.162.236.232	edgar_gomez	registro	add	944	texto		----------------------------------------------------------------------------------- • 221120.1144.7 • ¥ • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • DCVH•0000•221120•0000000     -----------------------------------------------------------------------------------  17M:   T995612   
+Nov 20,2022	20:09:55	201.162.236.232	edgar_gomez	registro	add	944	tipo_de_documento		1
+Nov 20,2022	21:18:47	201.162.236.232	edgar_gomez	users	login

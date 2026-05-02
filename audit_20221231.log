@@ -1,0 +1,7 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Dec 31,2022	20:12:20	189.202.91.200	edgar_gomez	users	login
+Dec 31,2022	20:58:29	189.202.91.200	edgar_gomez	registro	add	1201	texto		----------------------------------------------------------------------------------- • 221231.1257.6 • ¥  • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•221231•H085850     -----------------------------------------------------------------------------------  17M:    H085850        
+Dec 31,2022	20:58:29	189.202.91.200	edgar_gomez	registro	add	1201	tipo_de_documento		1
+Dec 31,2022	20:59:01	189.202.91.200	edgar_gomez	registro	add	1202	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:   F076790              
+Dec 31,2022	20:59:01	189.202.91.200	edgar_gomez	registro	add	1202	tipo_de_documento		1
+Dec 31,2022	21:35:05	189.202.91.200	edgar_gomez	users	login

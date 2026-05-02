@@ -1,0 +1,10 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+May 20,2022	01:11:32	189.202.91.72	edgar_gomez	users	login
+May 20,2022	05:04:10	187.190.193.32	edgar_gomez	users	login
+May 20,2022	16:16:11	189.202.91.72	edgar_gomez	users	login
+May 20,2022	17:31:41	189.202.91.72	edgar_gomez	users	login
+May 20,2022	17:33:07	189.202.91.72	edgar_gomez	registro	add	45	texto		----------------------------------------------------------------------------------- 220520.0911.5¬_¬ • Documentacion Vehicular Luis Gonzalez -----------------------------------------------------------------------------------  17M:   V086282                  --     DTS:  WVWEV71K48W106282            
+May 20,2022	17:33:07	189.202.91.72	edgar_gomez	registro	add	45	tipo_de_documento		1
+May 20,2022	18:30:26	189.202.91.72	edgar_gomez	users	login
+May 20,2022	18:30:49	187.190.193.32	francisco_gomez	users	login
+May 20,2022	23:51:00	201.170.115.66	edgar_gomez	users	login

@@ -1,0 +1,14 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Apr 24,2025	02:23:22	201.170.90.143	edgar_gomez	users	login
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	id	2722
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	folio	
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	fecha	
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	diasemana	
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	texto	----------------------------------------------------------------------------------- • 250304.0450.2 • Ø •  • OLJ • Sanchez Estrada Jorge Antonio • MoneyMan / GARNET COLLECT, S.A. • OLJ•0000•250304•0000000     -----------------------------------------------------------------------------------  17M:  
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	importe	
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	deleted_at	
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	created_at	
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	updated_at	
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	tipo_de_documento	3
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	images_fs	
+Apr 24,2025	03:04:49	201.170.90.143	edgar_gomez	registro	delete	2722	documents_fs	

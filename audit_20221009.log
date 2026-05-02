@@ -1,0 +1,5 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Oct 09,2022	04:47:47	189.202.91.200	edgar_gomez	users	login
+Oct 09,2022	04:47:58	189.202.91.200	edgar_gomez	registro	add	737	texto		----------------------------------------------------------------------------------- • 221008.1022.6 • ¥ • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•221008•0000000     -----------------------------------------------------------------------------------  17M:    I117374         
+Oct 09,2022	04:47:58	189.202.91.200	edgar_gomez	registro	add	737	tipo_de_documento		1
+Oct 09,2022	07:23:49	189.202.91.200	edgar_gomez	users	login

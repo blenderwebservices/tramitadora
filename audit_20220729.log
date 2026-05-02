@@ -1,0 +1,22 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jul 29,2022	03:16:22	189.202.91.200	edgar_gomez	users	login
+Jul 29,2022	03:16:22	189.202.91.200	edgar_gomez	registro	add	347	texto		----------------------------------------------------------------------------------- • 220728.1239.4 • Documentacion Vehicular • Edgar • Jose Alfredo Bartolo Montoya • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    P990544    
+Jul 29,2022	03:16:22	189.202.91.200	edgar_gomez	registro	add	347	tipo_de_documento		1
+Jul 29,2022	12:39:43	189.202.91.200	edgar_gomez	users	login
+Jul 29,2022	15:26:29	189.202.91.200	edgar_gomez	users	login
+Jul 29,2022	16:34:38	189.202.91.200	edgar_gomez	registro	add	348	texto		----------------------------------------------------------------------------------- • 220729.0853.5 • MLP • Edgar • Cinthya • MLP•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    D084145                 --     DTS:   2B3KA43G58H1341
+Jul 29,2022	16:34:38	189.202.91.200	edgar_gomez	registro	add	348	tipo_de_documento		4
+Jul 29,2022	17:57:00	189.202.91.200	edgar_gomez	users	login
+Jul 29,2022	17:57:00	189.202.91.200	edgar_gomez	registro	add	349	texto		----------------------------------------------------------------------------------- • 220709.0935.5 • Documentacion Vehicular • Edgar • Luis Gonzalez • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:   C049400                  --
+Jul 29,2022	17:57:00	189.202.91.200	edgar_gomez	registro	add	349	tipo_de_documento		1
+Jul 29,2022	18:00:04	189.202.91.200	edgar_gomez	registro	add	350	texto		----------------------------------------------------------------------------------- • 220729.1100.5 • OLJ • Fanny • Cliente Operador • OLJ•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    F137791                   --     DTS:   1FMC
+Jul 29,2022	18:00:04	189.202.91.200	edgar_gomez	registro	add	350	tipo_de_documento		3
+Jul 29,2022	19:14:25	189.202.91.200	edgar_gomez	users	login
+Jul 29,2022	19:14:25	189.202.91.200	edgar_gomez	registro	add	351	texto		----------------------------------------------------------------------------------- • 220729.1121.5 • Documentacion Vehicular • Edgar • Yonke El Socio • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    G950187                 -
+Jul 29,2022	19:14:25	189.202.91.200	edgar_gomez	registro	add	351	tipo_de_documento		1
+Jul 29,2022	19:44:58	154.6.19.9	edgar_gomez	registro	add	352	texto		----------------------------------------------------------------------------------- •220729.1215.5 • Documentacion Vehicular • Edgar • Khel Retrichtagio Shekhali • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    G977349       
+Jul 29,2022	19:44:58	154.6.19.9	edgar_gomez	registro	add	352	tipo_de_documento		1
+Jul 29,2022	22:06:03	189.202.91.200	edgar_gomez	users	login
+Jul 29,2022	22:39:46	189.202.91.200	edgar_gomez	users	login
+Jul 29,2022	23:22:38	189.202.91.200	edgar_gomez	registro	add	353	texto		----------------------------------------------------------------------------------- • 220729.1541.5 • ¥ • Documentacion Vehicular • Rubie De MonteCristo • Cliente Operador • DCVH•0000•220729•0000000     -----------------------------------------------------------------------------------  17M:   C0299
+Jul 29,2022	23:22:38	189.202.91.200	edgar_gomez	registro	add	353	tipo_de_documento		1

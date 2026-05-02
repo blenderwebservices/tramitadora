@@ -1,0 +1,45 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jul 20,2022	00:32:49	200.23.250.108	edgar_gomez	users	login
+Jul 20,2022	02:03:54	189.202.91.200	gustavo_zaragoza	users	login
+Jul 20,2022	02:14:27	189.202.91.200	edgar_gomez	users	login
+Jul 20,2022	02:48:13	189.202.91.200	gustavo_zaragoza	users	login
+Jul 20,2022	02:52:26	189.202.91.200	gustavo_zaragoza	registro	add	308	texto		----------------------------------------------------------------------------------- • 220719.2150.2 • Documentacion Vehicular • Gustavo • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    F074544              
+Jul 20,2022	02:52:26	189.202.91.200	gustavo_zaragoza	registro	add	308	tipo_de_documento		1
+Jul 20,2022	02:53:12	189.202.91.200	gustavo_zaragoza	users	logout
+Jul 20,2022	02:53:19	189.202.91.200	edgar_gomez	users	login
+Jul 20,2022	04:11:37	189.202.91.200	edgar_gomez	users	login
+Jul 20,2022	05:07:12	189.202.91.200	edgar_gomez	users	login
+Jul 20,2022	05:07:52	189.202.91.200	edgar_gomez	registro	add	309	texto		----------------------------------------------------------------------------------- • 220719.2208.2 • ¥ • Vero de Monaco • Tema del Tema • ¥•0000•000000•0000000    -----------------------------------------------------------------------------------  •  ---------------------------  •  ----------------
+Jul 20,2022	05:07:52	189.202.91.200	edgar_gomez	registro	add	309	tipo_de_documento		6
+Jul 20,2022	05:48:57	189.202.91.200	gustavo_zaragoza	users	failed login
+Jul 20,2022	05:49:09	189.202.91.200	gustavo_zaragoza	users	failed login
+Jul 20,2022	05:49:18	189.202.91.200	gustavo_zaragoza	users	failed login
+Jul 20,2022	05:49:37	189.202.91.200	gustavo_zaragoza	users	failed login
+Jul 20,2022	05:49:49	189.202.91.200	gustavo_zaragoza	users	failed login
+Jul 20,2022	05:49:58	189.202.91.200	gustavo_zaragoza	users	failed login
+Jul 20,2022	05:50:23	189.202.91.200	gustavo_zaragoza	users	failed login
+Jul 20,2022	05:50:32	189.202.91.200	gustavo_zaragoza	users	login
+Jul 20,2022	10:14:45	189.202.91.200	edgar_gomez	users	login
+Jul 20,2022	10:16:07	189.202.91.200	edgar_gomez	registro	edit	309	texto	----------------------------------------------------------------------------------- • 220719.2208.2 • ¥ • Vero de Monaco • Tema del Tema • ¥•0000•000000•0000000    -----------------------------------------------------------------------------------  •  ---------------------------  •  ---------------------------  •  ---------------------------  •  ---------------------------   6642242455  demonacaoveronica@gmail.com  monicahija  enlacelafortaleza400@hotmail.com	----------------------------------------------------------------------------------- • 220719.2208.2 • ¥ • Vero de Monaco • Tema del Tema • ¥•0000•000000•0000000    -----------------------------------------------------------------------------------  CEL:  6642242455  Maill:  demonacaoveronica@gmail.c
+Jul 20,2022	12:18:30	189.202.91.200	edgar_gomez	users	login
+Jul 20,2022	12:37:47	189.202.91.200	edgar_gomez	registro	add	310	texto		----------------------------------------------------------------------------------- • 220720.0518.3 • ¥ • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•220720•F031549     -----------------------------------------------------------------------------------  17M:   F031549          
+Jul 20,2022	12:37:47	189.202.91.200	edgar_gomez	registro	add	310	tipo_de_documento		1
+Jul 20,2022	16:06:43	189.202.91.200	edgar_gomez	users	login
+Jul 20,2022	16:06:48	189.202.91.200	edgar_gomez	registro	add	311	texto		----------------------------------------------------------------------------------- • 220720.0537.3 • ¥ • Documentacion Vehicular • Jose Alfredo Bartolo Montolla • Cliente Operador • DCVH•0000•220720•N862619     -----------------------------------------------------------------------------------  17M
+Jul 20,2022	16:06:48	189.202.91.200	edgar_gomez	registro	add	311	tipo_de_documento		1
+Jul 20,2022	16:21:40	189.202.91.200	edgar_gomez	registro	add	312	texto		----------------------------------------------------------------------------------- • 220721.0909.3 • ¥ • Documentacion Vehicular • Jose Alfredo Bartolo Montolla • Cliente Operador • DCVH•0000•220721•C815715     -----------------------------------------------------------------------------------  17M
+Jul 20,2022	16:21:40	189.202.91.200	edgar_gomez	registro	add	312	tipo_de_documento		1
+Jul 20,2022	17:08:42	200.23.250.108	edgar_gomez	users	login
+Jul 20,2022	18:15:26	200.23.250.108	edgar_gomez	users	login
+Jul 20,2022	18:45:20	189.202.91.200	edgar_gomez	users	login
+Jul 20,2022	19:00:00	200.23.250.108	edgar_gomez	registro	add	313	texto		----------------------------------------------------------------------------------- 220720.1122.3 • $∞$  • Documentación Vehicular • Fanny  •  Martha (Falta apellido) • DCVH•0000•220720• D124944  -----------------------------------------------------------------------------------  17M:       D124944 
+Jul 20,2022	19:00:00	200.23.250.108	edgar_gomez	registro	add	313	tipo_de_documento		1
+Jul 20,2022	19:04:27	200.23.250.108	edgar_gomez	registro	edit	313	texto	----------------------------------------------------------------------------------- 220720.1122.3 • $∞$  • Documentación Vehicular • Fanny  •  Martha (Falta apellido) • DCVH•0000•220720• D124944  -----------------------------------------------------------------------------------  17M:       D124944            --     DTS:       3C4PDDBG1CT144944          --                 2012 Dodge Journey SXT                VIN: 3C4PDDBG1CT144944                Style / Body: SUV 4D                Engine: 3.6L V6 SMPI                Country of Assembly: Mexico          --  STTS:     Pedimento y Factura          -- $$$ :       $3,500 Pedimento                             -- O//O:   •      •      •     •       •      •     •      •      •      •      •      •      •      •      •      • . - .0. - .0. - .0. - .0. - .0. - .0. - .0. - .0. - .0. - .0. - .0. - .0. - .0. - .0. - .0. - .       •      •      •      •      •      •      •      •      •      •      •      •      •      •	----------------------------------------------------------------------------------- 220720.1122.3 • $∞$  • Documentación Vehicular • Fanny  •  Martha (Falta apellido) • DCVH•0000•220720• D124944  -----------------------------------------------------------------------------------  17M:       D124944 
+Jul 20,2022	20:47:59	200.23.250.108	edgar_gomez	users	login
+Jul 20,2022	21:32:21	189.202.91.200	edgar_gomez	users	login
+Jul 20,2022	21:47:12	200.23.250.108	edgar_gomez	registro	add	314	texto		----------------------------------------------------------------------------------- 220720.1348.3 • $∞$  • Documentación Vehicular • Fanny  •  Imelda Chavez • DCVH•0000•220720•G096505 -----------------------------------------------------------------------------------  17M:    G096505               -
+Jul 20,2022	21:47:12	200.23.250.108	edgar_gomez	registro	add	314	tipo_de_documento		1
+Jul 20,2022	22:27:26	189.202.91.200	edgar_gomez	users	login
+Jul 20,2022	22:29:01	189.202.91.200	edgar_gomez	registro	add	315	texto		----------------------------------------------------------------------------------- • 220720.1432.3 • Documentacion Vehicular • Edgar • Adan Sanchez Quijas • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:     C140679            
+Jul 20,2022	22:29:01	189.202.91.200	edgar_gomez	registro	add	315	tipo_de_documento		1
+Jul 20,2022	23:17:25	189.202.91.200	edgar_gomez	users	login

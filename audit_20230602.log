@@ -1,0 +1,14 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jun 02,2023	20:24:59	189.202.91.200	edgar_gomez	users	login
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	id	1578
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	folio	
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	fecha	
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	diasemana	
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	texto	----------------------------------------------------------------------------------- • 230524.1442.3 • ¥ • Documentacion Vehicular • Adan Sanchez Quijas • Cliente Operador • DCVH•0000•230524•F1307570     -----------------------------------------------------------------------------------  17M:   F1307
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	importe	
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	deleted_at	
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	created_at	
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	updated_at	
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	tipo_de_documento	1
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	images_fs	
+Jun 02,2023	20:32:04	189.202.91.200	edgar_gomez	registro	delete	1578	documents_fs	

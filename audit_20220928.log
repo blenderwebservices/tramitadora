@@ -1,0 +1,13 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Sep 28,2022	00:01:27	189.202.91.200	edgar_gomez	users	login
+Sep 28,2022	01:07:59	189.202.91.200	edgar_gomez	users	login
+Sep 28,2022	13:32:26	189.202.91.200	edgar_gomez	users	login
+Sep 28,2022	13:32:29	189.202.91.200	edgar_gomez	registro	add	706	texto		----------------------------------------------------------------------------------- • 220827.1751. 2 • ¥ • Documentacion Vehicular • Ramon Traila • Cliente Operador • DCVH•0000•220827•T028343     -----------------------------------------------------------------------------------  17M:   T028343     
+Sep 28,2022	13:32:29	189.202.91.200	edgar_gomez	registro	add	706	tipo_de_documento		1
+Sep 28,2022	13:32:34	189.202.91.200	edgar_gomez	registro	add	707	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:   T042970              
+Sep 28,2022	13:32:34	189.202.91.200	edgar_gomez	registro	add	707	tipo_de_documento		1
+Sep 28,2022	13:32:38	189.202.91.200	edgar_gomez	registro	add	708	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:                     -- 
+Sep 28,2022	13:32:38	189.202.91.200	edgar_gomez	registro	add	708	tipo_de_documento		1
+Sep 28,2022	17:45:49	201.162.245.3	edgar_gomez	users	login
+Sep 28,2022	19:27:56	189.202.91.200	edgar_gomez	users	login
+Sep 28,2022	21:06:07	189.202.91.200	edgar_gomez	users	login

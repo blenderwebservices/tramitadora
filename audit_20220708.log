@@ -1,0 +1,19 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jul 08,2022	01:49:08	189.202.91.200	edgar_gomez	users	login
+Jul 08,2022	01:54:12	189.202.91.200	edgar_gomez	users	add	8	fullname		Gustavo Zaragoza
+Jul 08,2022	01:54:12	189.202.91.200	edgar_gomez	users	add	8	groupid		captura
+Jul 08,2022	01:54:12	189.202.91.200	edgar_gomez	users	add	8	password		$2y$10$3lZQFXG3mYuc5C5y0hq7xOQEnGoQpNf3AVAtg2dqDhOYJcNCSE6SG
+Jul 08,2022	01:54:12	189.202.91.200	edgar_gomez	users	add	8	email		gustavoyzaragoza@gmail.com
+Jul 08,2022	01:54:12	189.202.91.200	edgar_gomez	users	add	8	active		1
+Jul 08,2022	01:54:12	189.202.91.200	edgar_gomez	users	add	8	username		gustavo_zaragoza
+Jul 08,2022	01:56:50	189.202.91.200	gustavo_zaragoza	users	failed login
+Jul 08,2022	01:56:59	189.202.91.200	gustavo_zaragoza	users	login
+Jul 08,2022	03:32:29	189.202.91.200	gustavo_zaragoza	users	login
+Jul 08,2022	03:32:40	189.202.91.200	gustavo_zaragoza	registro	add	264	texto		----------------------------------------------------------------------------------- 220707.2100.4 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    N862619              -
+Jul 08,2022	03:32:40	189.202.91.200	gustavo_zaragoza	registro	add	264	tipo_de_documento		1
+Jul 08,2022	22:15:49	201.170.122.237	edgar_gomez	users	login
+Jul 08,2022	22:16:24	189.202.91.200	edgar_gomez	users	login
+Jul 08,2022	22:58:29	189.202.91.200	edgar_gomez	registro	add	265	texto		----------------------------------------------------------------------------------- 220708.1500.5 • Documentacion Vehicular • Edgar • Adan Sanchez Quijas • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    M138177               
+Jul 08,2022	22:58:29	189.202.91.200	edgar_gomez	registro	add	265	tipo_de_documento		1
+Jul 08,2022	23:02:27	201.170.122.237	edgar_gomez	registro	add	266	texto		----------------------------------------------------------------------------------- • 220708.1551.5 • ¥ • Regularizacion • Aurelio Felizardo Gil Portillo • Cliente • Operardor • RGLRZ•0000•000000•0000000     • https://www.gob.mx/sesnsp/es/articulos/regularizacion-de-vehiculos-usados-de-procedencia-e
+Jul 08,2022	23:02:27	201.170.122.237	edgar_gomez	registro	add	266	tipo_de_documento		5

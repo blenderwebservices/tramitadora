@@ -1,0 +1,17 @@
+登録通知
+
+あなたは次の場所でユーザとして登録されました。 %url%
+
+確認の為、このリンクをクリックして登録を完了して下さい。:
+%activateurl%
+リンクをクリックできない場合は、リンクをコピーしてブラウザにアドレスを貼り付けて下さい。
+
+Id: %id_value%
+Fullname: %fullname_value%
+Last Name: %last_name_value%
+Groupid: %groupid_value%
+Modified At: %modified_at_value%
+Created At: %created_at_value%
+Deleted At: %deleted_at_value%
+Username: %username_value%
+Email: %email_value%

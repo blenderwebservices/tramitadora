@@ -1,0 +1,9 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Sep 04,2022	00:06:43	189.202.90.136	edgar_gomez	users	login
+Sep 04,2022	00:12:05	189.202.90.136	edgar_gomez	users	login
+Sep 04,2022	00:12:09	189.202.90.136	edgar_gomez	registro	add	542	texto		----------------------------------------------------------------------------------- • 220903.10.20.6 • Documentacion Vehicular • KARINA  • Anthon Montana Villalobos  • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    J113884   
+Sep 04,2022	00:12:09	189.202.90.136	edgar_gomez	registro	add	542	tipo_de_documento		1
+Sep 04,2022	19:11:25	189.202.90.136	edgar_gomez	users	login
+Sep 04,2022	20:29:00	189.202.90.136	edgar_gomez	users	login
+Sep 04,2022	20:29:05	189.202.90.136	edgar_gomez	registro	add	543	texto		----------------------------------------------------------------------------------- • 220904.1213.• ¥ • Documentacion Vehicular • Anthon Montana Villalobos • J Beda Talavera  Rosales • DCVH•0000•220904•T032718     -----------------------------------------------------------------------------------  1
+Sep 04,2022	20:29:05	189.202.90.136	edgar_gomez	registro	add	543	tipo_de_documento		1

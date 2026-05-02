@@ -1,0 +1,17 @@
+Notificación de registro
+
+Te has registrado como usuario en %url%
+
+Haga click para confirmar su cuenta y finalizar el registro:
+%activateurl%
+Si no puedes hacer click en el link, copialo y pegalo en una ventana de navegador
+
+Id: %id_value%
+Nombre Completo: %fullname_value%
+Last Name: %last_name_value%
+Grupo: %groupid_value%
+Modified At: %modified_at_value%
+Created At: %created_at_value%
+Deleted At: %deleted_at_value%
+Usuario: %username_value%
+Email: %email_value%

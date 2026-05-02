@@ -1,0 +1,13 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jun 06,2023	02:16:48	189.223.146.0	edgar_gomez	users	failed login
+Jun 06,2023	02:16:53	189.223.146.0	edgar_gomez	users	failed login
+Jun 06,2023	02:16:59	189.223.146.0	edgar_gomez	users	failed login
+Jun 06,2023	02:17:04	189.223.146.0	edgar_gomez	users	failed login
+Jun 06,2023	02:17:08	189.223.146.0	edgar_gomez	users	login
+Jun 06,2023	15:15:44	189.202.91.200	edgar_gomez	users	login
+Jun 06,2023	16:07:35	189.202.91.200	edgar_gomez	users	login
+Jun 06,2023	19:45:24	189.202.91.200	edgar_gomez	users	login
+Jun 06,2023	19:45:31	189.202.91.200	edgar_gomez	registro	add	1596	texto		----------------------------------------------------------------------------------- • 230606.0909.2 • ¥ • Documentacion Vehicular • Jose Alfredo Bartolo Montoya • Cliente Operador • DCVH•0000•230606•N859163     -----------------------------------------------------------------------------------  17M:
+Jun 06,2023	19:45:31	189.202.91.200	edgar_gomez	registro	add	1596	tipo_de_documento		1
+Jun 06,2023	20:07:52	189.202.91.200	edgar_gomez	registro	add	1597	texto		----------------------------------------------------------------------------------- • 230606.1248.2 • ¥ • Documentacion Vehicular • Adan Sanchez Quijas • Cliente Operador • DCVH•0000•230606•M043323     -----------------------------------------------------------------------------------  17M:     M043
+Jun 06,2023	20:07:52	189.202.91.200	edgar_gomez	registro	add	1597	tipo_de_documento		8

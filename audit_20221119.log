@@ -1,0 +1,22 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Nov 19,2022	00:23:34	189.202.91.200	edgar_gomez	users	login
+Nov 19,2022	04:06:37	189.202.91.200	edgar_gomez	users	login
+Nov 19,2022	04:28:23	189.202.91.200	edgar_gomez	users	login
+Nov 19,2022	16:21:16	189.202.91.200	edgar_gomez	users	login
+Nov 19,2022	16:21:19	189.202.91.200	edgar_gomez	registro	add	938	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:                     -- 
+Nov 19,2022	16:21:19	189.202.91.200	edgar_gomez	registro	add	938	tipo_de_documento		1
+Nov 19,2022	18:47:44	189.202.91.200	edgar_gomez	users	login
+Nov 19,2022	18:47:47	189.202.91.200	edgar_gomez	registro	add	939	texto		----------------------------------------------------------------------------------- • 221119.1042.6 • ¥ • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•221119•D096334     -----------------------------------------------------------------------------------  17M:   D096334          
+Nov 19,2022	18:47:47	189.202.91.200	edgar_gomez	registro	add	939	tipo_de_documento		1
+Nov 19,2022	19:28:26	189.202.91.200	edgar_gomez	users	login
+Nov 19,2022	19:40:55	189.202.91.200	edgar_gomez	registro	add	940	texto		----------------------------------------------------------------------------------- • 221119.1048.6 • ¥ • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • DCVH•0000•T076291•0000000     -----------------------------------------------------------------------------------  17M:   T076291  
+Nov 19,2022	19:40:55	189.202.91.200	edgar_gomez	registro	add	940	tipo_de_documento		1
+Nov 19,2022	19:54:31	189.202.91.200	edgar_gomez	registro	add	941	texto		----------------------------------------------------------------------------------- • 221119.1129.6 • Documentacion Vehicular • Sharah Connor • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    L159057        
+Nov 19,2022	19:54:31	189.202.91.200	edgar_gomez	registro	add	941	tipo_de_documento		1
+Nov 19,2022	20:13:12	189.202.91.200	edgar_gomez	registro	add	942	texto		----------------------------------------------------------------------------------- • 221119.1143.6 • ¥ • Documentacion Vehicular • Ramiro de MonteCristo • Cliente Operador • DCVH•0000•221119•S977894     -----------------------------------------------------------------------------------  17M:   S977
+Nov 19,2022	20:13:12	189.202.91.200	edgar_gomez	registro	add	942	tipo_de_documento		1
+Nov 19,2022	21:02:27	189.202.91.200	edgar_gomez	users	login
+Nov 19,2022	21:02:31	189.202.91.200	edgar_gomez	registro	add	943	texto		----------------------------------------------------------------------------------- • 221119.1202.6•G• • Documentacion Vehicular • Sharah Connor • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    F115086     
+Nov 19,2022	21:02:31	189.202.91.200	edgar_gomez	registro	add	943	tipo_de_documento		1
+Nov 19,2022	22:08:16	187.250.255.245	edgar_gomez	users	login
+Nov 19,2022	22:27:13	189.202.91.200	edgar_gomez	users	login

@@ -1,0 +1,38 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Oct 29,2025	18:20:55	187.250.199.63	edgar_gomez	users	login
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	id	1751
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	folio	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	fecha	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	diasemana	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	texto	----------------------------------------------------------------------------------- • 230825.0810.5  • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • DCVH•0000•230825•C119375     -----------------------------------------------------------------------------------  17M:   C119375      
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	importe	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	deleted_at	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	created_at	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	updated_at	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	tipo_de_documento	8
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	images_fs	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	1751	documents_fs	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	id	2632
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	folio	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	fecha	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	diasemana	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	texto	----------------------------------------------------------------------------------- 241212.1243.4 • Ø • • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • Doc •  MEGA\MEGAsync\The Hitckhikers\180416\NEW\RGS\DocFast • DCVH•0000•241212•H093158     ----------------------------------------
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	importe	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	deleted_at	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	created_at	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	updated_at	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	tipo_de_documento	8
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	images_fs	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2632	documents_fs	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	id	2642
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	folio	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	fecha	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	diasemana	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	texto	----------------------------------------------------------------------------------- • 241218.1432.3 • Ø •  • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • Doc •  MEGA\MEGAsync\The Hitckhikers\180416\NEW\RGS\DocFast • DCVH•0000•241218•J909791     -------------------------------------
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	importe	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	deleted_at	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	created_at	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	updated_at	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	tipo_de_documento	8
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	images_fs	
+Oct 29,2025	19:23:36	187.250.199.63	edgar_gomez	registro	delete	2642	documents_fs	

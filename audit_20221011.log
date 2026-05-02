@@ -1,0 +1,16 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Oct 11,2022	03:46:31	189.202.91.200	edgar_gomez	users	login
+Oct 11,2022	14:04:48	201.162.236.85	edgar_gomez	users	login
+Oct 11,2022	17:52:12	189.202.91.200	edgar_gomez	users	login
+Oct 11,2022	18:37:05	189.202.91.200	edgar_gomez	registro	add	741	texto		----------------------------------------------------------------------------------- • 221011.1136.2 • MLP • Edgar • Cinthia • MLP•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    T064207                 --     DTS:    5TBDT44196S544
+Oct 11,2022	18:37:05	189.202.91.200	edgar_gomez	registro	add	741	tipo_de_documento		4
+Oct 11,2022	19:22:49	189.202.91.200	edgar_gomez	registro	add	742	texto		----------------------------------------------------------------------------------- • 221011.1153.2 • Documentacion Vehicular • Edgar • Sharah Connor • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    S961764                  -
+Oct 11,2022	19:22:49	189.202.91.200	edgar_gomez	registro	add	742	tipo_de_documento		1
+Oct 11,2022	20:07:03	189.202.91.200	edgar_gomez	users	login
+Oct 11,2022	20:27:48	189.202.91.200	edgar_gomez	users	login
+Oct 11,2022	20:31:49	189.202.91.200	edgar_gomez	users	login
+Oct 11,2022	20:35:20	189.202.91.200	edgar_gomez	registro	add	743	texto		----------------------------------------------------------------------------------- • 221011.1307.2 • Documentacion Vehicular • EDGAR • Katya Barraza Elizalde & Rick Rich • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    C0377
+Oct 11,2022	20:35:20	189.202.91.200	edgar_gomez	registro	add	743	tipo_de_documento		1
+Oct 11,2022	21:12:35	189.202.91.200	edgar_gomez	users	login
+Oct 11,2022	21:26:14	189.202.91.200	edgar_gomez	registro	add	744	texto		----------------------------------------------------------------------------------- • 7221011.1328.2 •Ø1 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•7221011•C029478 • F039412 • CA7009   -----------------------------------------------------------------------------------  17M: 
+Oct 11,2022	21:26:14	189.202.91.200	edgar_gomez	registro	add	744	tipo_de_documento		4

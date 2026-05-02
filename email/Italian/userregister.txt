@@ -1,0 +1,17 @@
+Notifica della registrazione
+
+Sei stato registrato come utente a %url%
+
+Clicca questo link per confermare il tuo account e completare la registrazione.:
+%activateurl%
+Se non puoi fare click sul link, copialo e incollalo nel tuo browser.
+
+Id: %id_value%
+Fullname: %fullname_value%
+Last Name: %last_name_value%
+Groupid: %groupid_value%
+Modified At: %modified_at_value%
+Created At: %created_at_value%
+Deleted At: %deleted_at_value%
+Username: %username_value%
+Email: %email_value%

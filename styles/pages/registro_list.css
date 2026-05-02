@@ -1,0 +1,33 @@
+[data-cellid="grid_footcell_field"][data-page="registro_list"][data-cellid="grid_footcell_field"][data-page="registro_list"][data-cellid="grid_footcell_field"][data-page="registro_list"] {
+  white-space: nowrap;
+}
+[data-cellid="grid_footcell_field1"][data-page="registro_list"][data-cellid="grid_footcell_field1"][data-page="registro_list"][data-cellid="grid_footcell_field1"][data-page="registro_list"] {
+  white-space: nowrap;
+}
+[data-cellid="grid_footcell_field2"][data-page="registro_list"][data-cellid="grid_footcell_field2"][data-page="registro_list"][data-cellid="grid_footcell_field2"][data-page="registro_list"] {
+  white-space: nowrap;
+}
+[data-cellid="grid_footcell_field3"][data-page="registro_list"][data-cellid="grid_footcell_field3"][data-page="registro_list"][data-cellid="grid_footcell_field3"][data-page="registro_list"] {
+  white-space: nowrap;
+}
+[data-cellid="grid_headcell_icons"][data-page="registro_list"][data-cellid="grid_headcell_icons"][data-page="registro_list"][data-cellid="grid_headcell_icons"][data-page="registro_list"] {
+  width: 30px;
+}
+[data-cellid="grid_cell_icons"][data-page="registro_list"][data-cellid="grid_cell_icons"][data-page="registro_list"][data-cellid="grid_cell_icons"][data-page="registro_list"] {
+  white-space: nowrap;
+}
+[data-cellid="grid_headcell_checkbox"][data-page="registro_list"][data-cellid="grid_headcell_checkbox"][data-page="registro_list"][data-cellid="grid_headcell_checkbox"][data-page="registro_list"] {
+  width: 30px;
+}
+
+/* Put  your custom CSS code here */
+
+[data-page="registro_list"][data-itemid="simple_grid_field4"] {
+  color: red;
+}
+span {border:none;}
+pre {
+    background-color: #ffffff;
+    border: 0px solid #ffffff;
+    
+}

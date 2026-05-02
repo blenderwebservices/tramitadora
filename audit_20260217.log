@@ -1,0 +1,39 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Feb 17,2026	21:56:24	189.223.66.101	edgar_gomez	users	login
+Feb 17,2026	23:21:01	189.223.66.101	edgar_gomez	users	login
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	id	382
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	folio	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	fecha	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	diasemana	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	texto	----------------------------------------------------------------------------------- • 220804.1458.4 • ¥ • Regularizacion • Octavio Soltero • Cliente • Operardor • RGLRZ•0000•220804•F034771     • https://www.gob.mx/sesnsp/es/articulos/regularizacion-de-vehiculos-usados-de-procedencia-extranjera?idiom
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	importe	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	deleted_at	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	created_at	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	updated_at	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	tipo_de_documento	5
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	images_fs	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	382	documents_fs	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	id	404
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	folio	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	fecha	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	diasemana	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	texto	----------------------------------------------------------------------------------- • 220805.2033.5 • Documentacion Vehicular • Edgar • Octavio Soltero • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:     F924701                
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	importe	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	deleted_at	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	created_at	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	updated_at	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	tipo_de_documento	1
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	images_fs	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	404	documents_fs	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	id	531
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	folio	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	fecha	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	diasemana	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	texto	----------------------------------------------------------------------------------- • 220902.1331.5 • ¥ • Regularizacion • Octavio • Moreno Chaides Maria Guadalupe • RGLRZ•0000•220902•F924701     • https://www.gob.mx/sesnsp/es/articulos/regularizacion-de-vehiculos-usados-de-procedencia-extranjera?id
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	importe	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	deleted_at	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	created_at	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	updated_at	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	tipo_de_documento	5
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	images_fs	
+Feb 17,2026	23:22:01	189.223.66.101	edgar_gomez	registro	delete	531	documents_fs	

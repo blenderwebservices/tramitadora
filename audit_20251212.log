@@ -1,0 +1,39 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Dec 12,2025	20:49:03	187.250.250.56	edgar_gomez	users	login
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	id	704
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	folio	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	fecha	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	diasemana	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	texto	----------------------------------------------------------------------------------- • 220927.1415.2 • ¥3 • Documentacion Vehicular • Leonardo Virgen  • Kristiam Brian  Arreola  • DCVH•0000•220927•T978665   -----------------------------------------------------------------------------------  17M:     
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	importe	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	deleted_at	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	created_at	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	updated_at	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	tipo_de_documento	1
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	images_fs	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	704	documents_fs	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	id	896
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	folio	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	fecha	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	diasemana	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	texto	----------------------------------------------------------------------------------- • 221110.1034.3•g• • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • DCVH•0000•221110•T051701     -----------------------------------------------------------------------------------  17M:    T051701   
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	importe	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	deleted_at	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	created_at	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	updated_at	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	tipo_de_documento	1
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	images_fs	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	896	documents_fs	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	id	1929
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	folio	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	fecha	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	diasemana	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	texto	----------------------------------------------------------------------------------- • 231115.0914.3 • ¥ • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • Doc •  MEGA\MEGAsync\The Hitckhikers\180416\NEW\RGS\DocFast • DCVH•0000•231115•T163712     ----------------------------------------
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	importe	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	deleted_at	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	created_at	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	updated_at	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	tipo_de_documento	8
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	images_fs	
+Dec 12,2025	21:32:37	187.250.250.56	edgar_gomez	registro	delete	1929	documents_fs	
+Dec 12,2025	23:32:42	187.250.250.56	edgar_gomez	users	login

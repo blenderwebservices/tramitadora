@@ -1,0 +1,36 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+May 24,2022	00:00:23	189.202.91.72	edgar_gomez	registro	add	59	texto		----------------------------------------------------------------------------------- 22.05.17.1135.2.$∞$ • Documentacion Vehicular Rosario Rabago -----------------------------------------------------------------------------------  17M:       V994670               --     DTS:       3VWSC29M0XM004670  
+May 24,2022	00:00:23	189.202.91.72	edgar_gomez	registro	add	59	tipo_de_documento		1
+May 24,2022	00:23:01	189.202.91.72	edgar_gomez	registro	add	60	texto		----------------------------------------------------------------------------------- 22.05.23.1700.1.$∞$ • Documentacion Vehicular Operador: Fanny Cliente: Juan Manuel Laguna Zamora  -----------------------------------------------------------------------------------  17M:  D169897                    
+May 24,2022	00:23:01	189.202.91.72	edgar_gomez	registro	add	60	tipo_de_documento		1
+May 24,2022	00:56:05	189.202.91.72	edgar_gomez	users	login
+May 24,2022	01:22:24	189.202.91.72	edgar_gomez	users	login
+May 24,2022	02:02:17	189.202.91.72	edgar_gomez	users	login
+May 24,2022	02:09:04	189.202.91.72	edgar_gomez	registro	add	61	texto		----------------------------------------------------------------------------------- 220523.1903.1 • Documentacion Vehicular • Edgar Gaucho • Hermana Gaucho -----------------------------------------------------------------------------------  17M:                     --     DTS:   JY4AM02Y92C027421   
+May 24,2022	02:09:04	189.202.91.72	edgar_gomez	registro	add	61	tipo_de_documento		1
+May 24,2022	02:25:23	189.202.91.72	edgar_gomez	users	login
+May 24,2022	03:42:58	189.202.91.72	edgar_gomez	users	login
+May 24,2022	03:56:35	189.202.91.72	edgar_gomez	users	login
+May 24,2022	03:56:55	189.202.91.72	edgar_gomez	registro	add	62	texto		----------------------------------------------------------------------------------- 220523.1926.1 • Documentacion Vehicular Jose Alfredo Bartolo Montoya -----------------------------------------------------------------------------------  17M:    L074769                 --     DTS:    2LMDU68C17BJ047
+May 24,2022	03:56:55	189.202.91.72	edgar_gomez	registro	add	62	tipo_de_documento		1
+May 24,2022	04:02:00	189.202.91.72	edgar_gomez	registro	add	63	texto		----------------------------------------------------------------------------------- 220523.2043.1 • Documentacion Vehicular • Martinez Contreras Rodolfo -----------------------------------------------------------------------------------  17M:   N003905                  --     DTS:   3N1CB51D0YL33390
+May 24,2022	04:02:00	189.202.91.72	edgar_gomez	registro	add	63	tipo_de_documento		1
+May 24,2022	13:47:26	187.190.193.32	edgar_gomez	users	login
+May 24,2022	15:14:08	189.202.91.72	edgar_gomez	users	login
+May 24,2022	15:18:31	189.202.91.72	edgar_gomez	users	login
+May 24,2022	16:48:14	189.202.91.72	edgar_gomez	users	login
+May 24,2022	17:00:40	189.202.91.72	edgar_gomez	registro	add	64	texto		----------------------------------------------------------------------------------- 22.05.24.0948.2.$∞$ • Documentación Vehicular •Operador: Fanny •Cliente: David Páez Aceves   -----------------------------------------------------------------------------------  17M:                     --     DTS:  
+May 24,2022	17:00:40	189.202.91.72	edgar_gomez	registro	add	64	tipo_de_documento		1
+May 24,2022	17:35:58	189.202.91.72	edgar_gomez	users	login
+May 24,2022	18:08:01	189.202.91.72	edgar_gomez	users	login
+May 24,2022	18:49:31	189.202.91.72	edgar_gomez	registro	add	65	texto		----------------------------------------------------------------------------------- 22.05.24.2.$∞$ • Documentación Vesicular •Operador: Fanny •Cliente: Mario Liñan  -----------------------------------------------------------------------------------  17M:   F941644                  --     DTS:  1FTCR
+May 24,2022	18:49:31	189.202.91.72	edgar_gomez	registro	add	65	tipo_de_documento		1
+May 24,2022	19:47:00	189.202.91.72	edgar_gomez	users	login
+May 24,2022	19:47:24	189.202.91.72	edgar_gomez	registro	add	66	texto		----------------------------------------------------------------------------------- 220524.0815.2¬_¬ • Documentacion Vehicular Aldo Gomez Perez -----------------------------------------------------------------------------------  17M:    N871984                 --     DTS:    JN6ND11S5HW051984       
+May 24,2022	19:47:24	189.202.91.72	edgar_gomez	registro	add	66	tipo_de_documento		1
+May 24,2022	21:14:23	189.202.91.72	edgar_gomez	users	login
+May 24,2022	21:15:03	189.202.91.72	edgar_gomez	registro	add	67	texto		----------------------------------------------------------------------------------- 220524.1200.2¬_¬ • Documentacion Vehicular Cliente Humberto -----------------------------------------------------------------------------------  17M:    J886742                  --     DTS:    1JCMR7845JT106742      
+May 24,2022	21:15:03	189.202.91.72	edgar_gomez	registro	add	67	tipo_de_documento		1
+May 24,2022	23:55:38	189.202.91.72	edgar_gomez	users	login
+May 24,2022	23:56:29	189.202.91.72	edgar_gomez	registro	add	68	texto		----------------------------------------------------------------------------------- 220524.1416.2¬_ ¬ • Documentacion Vehicular ROSARIO RABAGO -----------------------------------------------------------------------------------  17M:     V994670                --     DTS:    3VWSC29M0XM004670        
+May 24,2022	23:56:29	189.202.91.72	edgar_gomez	registro	add	68	tipo_de_documento		1

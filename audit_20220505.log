@@ -1,0 +1,37 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+May 05,2022	05:09:20	::1	edgar_gomez	users	login
+May 05,2022	05:10:10	::1	edgar_gomez	users	add	8	fullname		Juan Perez
+May 05,2022	05:10:10	::1	edgar_gomez	users	add	8	groupid		captura
+May 05,2022	05:10:10	::1	edgar_gomez	users	add	8	password		123456
+May 05,2022	05:10:10	::1	edgar_gomez	users	add	8	email		juan.perez@gmail.com.mx
+May 05,2022	05:10:10	::1	edgar_gomez	users	add	8	active		1
+May 05,2022	05:10:10	::1	edgar_gomez	users	add	8	username		juan_perez
+May 05,2022	05:40:43	::1	edgar_gomez	users	logout
+May 05,2022	05:41:01	::1	juan_perezperez	users	failed login
+May 05,2022	05:44:29	::1	francisco_gomez	users	failed login
+May 05,2022	06:09:20	::1	juan_perez	users	login
+May 05,2022	06:12:28	::1	juan_perez	users	logout
+May 05,2022	06:12:59	::1	edgar_gomez	users	login
+May 05,2022	06:13:54	::1	edgar_gomez	users	add	11	fullname		Juan Perez
+May 05,2022	06:13:54	::1	edgar_gomez	users	add	11	groupid		captura
+May 05,2022	06:13:54	::1	edgar_gomez	users	add	11	password		123456
+May 05,2022	06:13:54	::1	edgar_gomez	users	add	11	email		juan.perez.123abc@correo.com
+May 05,2022	06:13:54	::1	edgar_gomez	users	add	11	active		1
+May 05,2022	06:13:54	::1	edgar_gomez	users	add	11	username		juan_perez
+May 05,2022	06:29:29	::1	edgar_gomez	users	add	12	fullname		Juan Perez
+May 05,2022	06:29:29	::1	edgar_gomez	users	add	12	groupid		captura
+May 05,2022	06:29:29	::1	edgar_gomez	users	add	12	password		$2y$10$2bu43DgdzfoqpU4poWuzFePzSaHUfByvnEcwukrL4P90/zuuJN0p6
+May 05,2022	06:29:29	::1	edgar_gomez	users	add	12	email		juan.perez123abc@correo.com
+May 05,2022	06:29:29	::1	edgar_gomez	users	add	12	active		1
+May 05,2022	06:29:29	::1	edgar_gomez	users	add	12	username		juan_perez
+May 05,2022	06:32:14	::1	edgar_gomez	users	logout
+May 05,2022	06:32:31	::1	juan_perez	users	login
+May 05,2022	07:07:59	::1	juan_perez	users	logout
+May 05,2022	08:01:37	::1	juan_perez	users	login
+May 05,2022	08:03:24	::1	juan_perez	users	logout
+May 05,2022	08:05:50	::1	pedro_lopez	users	failed login
+May 05,2022	08:07:00	::1	pedro_lopez	users	login
+May 05,2022	08:09:01	::1	pedro_lopez	users	logout
+May 05,2022	08:09:41	::1	edgar_gomez	users	login
+May 05,2022	08:31:53	::1	edgar_gomez	users	logout
+May 05,2022	08:32:51	::1	francisco_gomez	users	login

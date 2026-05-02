@@ -1,0 +1,15 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Aug 26,2025	00:20:35	187.250.254.191	edgar_gomez	users	login
+Aug 26,2025	03:54:49	187.250.254.191	edgar_gomez	users	login
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	id	1817
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	folio	
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	fecha	
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	diasemana	
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	texto	----------------------------------------------------------------------------------- • 240510.1326.5 • ¥ • Documentacion Vehicular • Leonardo Virgen • RUBEN CHAVEZ PINEDA • Cliente • Operardor • DEPICITOS                                          •   https://www.gob.mx/banjercito/articulos/sistema-de-
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	importe	
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	deleted_at	
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	created_at	
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	updated_at	
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	tipo_de_documento	7
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	images_fs	
+Aug 26,2025	03:55:33	187.250.254.191	edgar_gomez	registro	delete	1817	documents_fs	

@@ -1,0 +1,14 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+May 16,2025	01:39:50	201.170.90.39	edgar_gomez	users	login
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	id	2581
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	folio	
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	fecha	
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	diasemana	
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	texto	----------------------------------------------------------------------------------- • 241030.1159.3 • Ø • • ¥ • Respaldo • https://login.qr-code-generator.com/ • https://temp-mail.org/es/  • Tema del Tema • ¥•0000•241030•0000000    --------------------------------------------------------------------
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	importe	
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	deleted_at	
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	created_at	
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	updated_at	
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	tipo_de_documento	6
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	images_fs	
+May 16,2025	01:40:23	201.170.90.39	edgar_gomez	registro	delete	2581	documents_fs	

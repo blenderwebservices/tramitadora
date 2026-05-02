@@ -1,0 +1,8 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Mar 08,2025	02:15:19	187.250.41.254	edgar_gomez	users	login
+Mar 08,2025	05:01:40	187.250.41.254	edgar_gomez	users	login
+Mar 08,2025	05:19:25	187.250.41.254	edgar_gomez	registro	add	2732	texto		----------------------------------------------------------------------------------- • 000000.0000.0 • Documentacion Vehicular • Operador • Cliente • Operardor • DEPICITOS                                          •   https://www.gob.mx/banjercito/articulos/sistema-de-importacion-temporal-de-vehiculos
+Mar 08,2025	05:19:25	187.250.41.254	edgar_gomez	registro	add	2732	tipo_de_documento		10
+Mar 08,2025	05:42:20	187.250.41.254	edgar_gomez	registro	add	2733	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:                     -- 
+Mar 08,2025	05:42:20	187.250.41.254	edgar_gomez	registro	add	2733	tipo_de_documento		1
+Mar 08,2025	22:11:28	187.250.41.254	edgar_gomez	users	login

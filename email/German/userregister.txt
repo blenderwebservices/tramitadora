@@ -1,0 +1,17 @@
+Bestätigung Ihrer Registrierung
+
+Sie haben sich als Benutzer registriert bei %url%
+
+Klicken Sie diesen Link um Ihre Registrierung zu bestätigen und abzuschliessen:
+%activateurl%
+Wenn der Link nicht funktioniert, dann kopieren Sie diesen Link in die Zeile Ihres Browsers
+
+Id: %id_value%
+Fullname: %fullname_value%
+Last Name: %last_name_value%
+Groupid: %groupid_value%
+Modified At: %modified_at_value%
+Created At: %created_at_value%
+Deleted At: %deleted_at_value%
+Username: %username_value%
+Email: %email_value%

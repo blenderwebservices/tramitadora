@@ -1,0 +1,5 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Aug 27,2023	04:50:07	189.202.90.200	edgar_gomez	users	login
+Aug 27,2023	04:50:09	189.202.90.200	edgar_gomez	registro	add	1754	texto		----------------------------------------------------------------------------------- • 230826.1629.6 • ¥ • Documentacion Vehicular • Luis Valdivia • Cliente Operador • DCVH•0000•230826•K143026     -----------------------------------------------------------------------------------  17M:   K143026     
+Aug 27,2023	04:50:09	189.202.90.200	edgar_gomez	registro	add	1754	tipo_de_documento		1
+Aug 27,2023	19:55:19	189.202.90.200	edgar_gomez	users	login

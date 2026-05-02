@@ -1,0 +1,15 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Mar 31,2025	16:48:31	201.170.72.120	edgar_gomez	users	login
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	id	2551
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	folio	
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	fecha	
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	diasemana	
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	texto	----------------------------------------------------------------------------------- • 241009.0943.3 • ¥ • • Regularizacion • SANDRA ESPARZA RIVERA • Cliente • Operardor • +52 1 664 197 8049  • CURP:                                                 https://www.gob.mx/curp/   • RFC:                    
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	importe	
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	deleted_at	
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	created_at	
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	updated_at	
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	tipo_de_documento	5
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	images_fs	
+Mar 31,2025	17:04:33	201.170.72.120	edgar_gomez	registro	delete	2551	documents_fs	
+Mar 31,2025	18:58:23	201.170.72.120	edgar_gomez	users	login

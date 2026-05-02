@@ -1,0 +1,19 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Sep 01,2022	00:57:28	189.202.91.72	edgar_gomez	users	login
+Sep 01,2022	03:15:45	189.202.91.72	edgar_gomez	users	login
+Sep 01,2022	03:42:09	189.202.91.72	edgar_gomez	users	login
+Sep 01,2022	03:42:11	189.202.91.72	edgar_gomez	registro	add	520	texto		----------------------------------------------------------------------------------- • 220831.1843.3 • Documentacion Vehicular • KARINA • Ramon Traila Montana • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:     G200477          
+Sep 01,2022	03:42:11	189.202.91.72	edgar_gomez	registro	add	520	tipo_de_documento		1
+Sep 01,2022	04:19:50	189.202.91.72	edgar_gomez	registro	add	521	texto		----------------------------------------------------------------------------------- • 220831.2044.3. • Documentacion Vehicular • KARINA • LUIS GONZALEZ  • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    H909825                
+Sep 01,2022	04:19:50	189.202.91.72	edgar_gomez	registro	add	521	tipo_de_documento		1
+Sep 01,2022	04:20:10	189.202.91.72	edgar_gomez	users	login
+Sep 01,2022	08:25:21	189.202.91.72	edgar_gomez	users	login
+Sep 01,2022	21:12:29	189.202.91.72	edgar_gomez	users	login
+Sep 01,2022	21:31:53	189.202.91.72	edgar_gomez	users	login
+Sep 01,2022	21:49:52	189.202.91.72	edgar_gomez	registro	add	522	texto		----------------------------------------------------------------------------------- • 090122.0215.4 • Documentacion Vehicular • Operador • Sharha Connor • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:     C014920               
+Sep 01,2022	21:49:52	189.202.91.72	edgar_gomez	registro	add	522	tipo_de_documento		1
+Sep 01,2022	22:30:01	189.202.91.72	edgar_gomez	registro	add	523	texto		----------------------------------------------------------------------------------- • 090122.0257.4 • Documentacion Vehicular • GUSTAVO  • JOSE ALFREDO VARTOLO MONTOYA  • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:           
+Sep 01,2022	22:30:01	189.202.91.72	edgar_gomez	registro	add	523	tipo_de_documento		1
+Sep 01,2022	23:38:54	189.202.91.72	edgar_gomez	users	login
+Sep 01,2022	23:38:59	189.202.91.72	edgar_gomez	registro	add	524	texto		----------------------------------------------------------------------------------- • 090122.0336.4 • Documentacion Vehicular • GUSTAVO • CARRA FERMIN  • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    C924602                 
+Sep 01,2022	23:38:59	189.202.91.72	edgar_gomez	registro	add	524	tipo_de_documento		1

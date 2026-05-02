@@ -1,0 +1,9 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jun 05,2022	01:49:49	189.223.64.66	edgar_gomez	users	login
+Jun 05,2022	01:49:55	189.223.64.66	edgar_gomez	registro	add	145	texto		----------------------------------------------------------------------------------- 220604.1542.6 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0015•000000•Y027421     -----------------------------------------------------------------------------------  17M:   Y027421                
+Jun 05,2022	01:49:55	189.223.64.66	edgar_gomez	registro	add	145	tipo_de_documento		1
+Jun 05,2022	04:08:22	189.202.91.136	edgar_gomez	users	login
+Jun 05,2022	17:28:29	189.202.91.136	edgar_gomez	users	login
+Jun 05,2022	17:44:22	189.202.91.136	edgar_gomez	registro	add	146	texto		----------------------------------------------------------------------------------- 220605.1038.7 • Documentacion Vehicular • Ramiro De MonteCristo • Cliente Operador • DCVH•0016•220605•H994922     -----------------------------------------------------------------------------------  17M:   H994922   
+Jun 05,2022	17:44:22	189.202.91.136	edgar_gomez	registro	add	146	tipo_de_documento		1
+Jun 05,2022	23:17:42	189.202.91.136	edgar_gomez	users	login

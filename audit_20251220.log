@@ -1,0 +1,26 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Dec 20,2025	17:55:11	187.250.250.56	edgar_gomez	users	login
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	id	1035
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	folio	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	fecha	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	diasemana	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	texto	----------------------------------------------------------------------------------- • 221207.1059.3 • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    F105829      
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	importe	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	deleted_at	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	created_at	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	updated_at	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	tipo_de_documento	1
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	images_fs	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1035	documents_fs	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	id	1038
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	folio	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	fecha	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	diasemana	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	texto	----------------------------------------------------------------------------------- • 221207.1200.•g• • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:   W006279     
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	importe	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	deleted_at	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	created_at	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	updated_at	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	tipo_de_documento	1
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	images_fs	
+Dec 20,2025	19:43:14	187.250.250.56	edgar_gomez	registro	delete	1038	documents_fs	

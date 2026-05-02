@@ -1,0 +1,28 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Dec 10,2025	01:11:13	187.250.250.56	edgar_gomez	users	login
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	id	1999
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	folio	
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	fecha	
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	diasemana	
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	texto	----------------------------------------------------------------------------------- • 231213.0741.3 • ¥ • Documentacion Vehicular • Aldo Gómez Pérez • Cliente • Operardor • Cliente • Operardor • DEPICITOS                                          •   https://www.gob.mx/banjercito/articulos/sistema-de
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	importe	
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	deleted_at	
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	created_at	
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	updated_at	
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	tipo_de_documento	7
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	images_fs	
+Dec 10,2025	01:11:21	187.250.250.56	edgar_gomez	registro	delete	1999	documents_fs	
+Dec 10,2025	06:50:41	187.250.250.56	edgar_gomez	users	login
+Dec 10,2025	09:02:10	187.250.250.56	edgar_gomez	users	login
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	id	2413
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	folio	
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	fecha	
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	diasemana	
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	texto	----------------------------------------------------------------------------------- • 240617.0922.1 • ¥ • • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • Post-it              MEGA\MEGAsync\The Hitckhikers\180416\NEW\TTL\CA\Post-it  • TTL FILE         MEGA\MEGAsync\The Hitckhikers\18
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	importe	
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	deleted_at	
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	created_at	
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	updated_at	
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	tipo_de_documento	5
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	images_fs	
+Dec 10,2025	09:02:28	187.250.250.56	edgar_gomez	registro	delete	2413	documents_fs	

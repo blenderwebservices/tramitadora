@@ -1,0 +1,6 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Apr 06,2023	04:51:45	189.202.91.200	edgar_gomez	users	login
+Apr 06,2023	04:51:49	189.202.91.200	edgar_gomez	registro	add	1446	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•T857162     -----------------------------------------------------------------------------------  17M:  T857162 H019108 CA4096
+Apr 06,2023	04:51:49	189.202.91.200	edgar_gomez	registro	add	1446	tipo_de_documento		1
+Apr 06,2023	17:05:33	189.202.91.200	edgar_gomez	users	login
+Apr 06,2023	19:55:50	187.189.29.203	edgar_gomez	users	login

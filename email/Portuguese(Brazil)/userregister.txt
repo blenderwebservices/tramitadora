@@ -1,0 +1,17 @@
+Notificação sobre seu registro
+
+Foi concluído seu registro como usuário em %url%
+
+Clique neste link para confirmar a sua conta e concluir o seu registro:
+%activateurl%
+Caso não consiga clicar no link, copie e cole na janela de seu navegador
+
+Id: %id_value%
+Fullname: %fullname_value%
+Last Name: %last_name_value%
+Groupid: %groupid_value%
+Modified At: %modified_at_value%
+Created At: %created_at_value%
+Deleted At: %deleted_at_value%
+Username: %username_value%
+Email: %email_value%

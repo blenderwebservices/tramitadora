@@ -1,0 +1,10 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Sep 26,2022	19:10:07	189.202.90.136	edgar_gomez	users	login
+Sep 26,2022	22:34:41	189.202.90.136	edgar_gomez	users	login
+Sep 26,2022	22:45:41	189.202.90.136	edgar_gomez	registro	add	693	texto		----------------------------------------------------------------------------------- • 220926.1535.1 • ¥3 • Documentacion Vehicular • Operador • Katya Barraza Elizalde • DCVH•0000•220926• H960326       -----------------------------------------------------------------------------------  17M:     H9603
+Sep 26,2022	22:45:41	189.202.90.136	edgar_gomez	registro	add	693	tipo_de_documento		1
+Sep 26,2022	23:24:11	189.202.90.136	edgar_gomez	users	login
+Sep 26,2022	23:48:29	189.202.90.136	edgar_gomez	registro	add	694	texto		----------------------------------------------------------------------------------- • 220926.1632.1 • ¥ • Documentacion Vehicular • Operador • Cintia Alavarez • DCVH•0000•220926•T070742  -----------------------------------------------------------------------------------  17M:    T070742             
+Sep 26,2022	23:48:29	189.202.90.136	edgar_gomez	registro	add	694	tipo_de_documento		1
+Sep 26,2022	23:57:24	189.202.90.136	edgar_gomez	registro	add	695	texto		----------------------------------------------------------------------------------- • 220926.1624.1 •Ø1 • Documentacion Vehicular • SINTIA  • Cliente Operador • DCVH•0000•220926•J062264 • V3604 • CA8950     -----------------------------------------------------------------------------------  17M:    
+Sep 26,2022	23:57:24	189.202.90.136	edgar_gomez	registro	add	695	tipo_de_documento		1

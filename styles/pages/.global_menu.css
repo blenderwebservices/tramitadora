@@ -1,0 +1,14 @@
+[data-page=".global_menu"][data-itemid="welcome_item"] > .bs-welcome-header {
+  background-color: #63b8ff;
+}
+[data-page=".global_menu"][data-itemid="welcome_item1"] > .bs-welcome-header {
+  background-color: #6fdb5f;
+}
+[data-page=".global_menu"][data-itemid="welcome_item2"] > .bs-welcome-header {
+  background-color: #3a67ff;
+}
+[data-page=".global_menu"][data-itemid="welcome_item2"] > .bs-welcome-header > a {
+  color: #ecff86;
+}
+
+

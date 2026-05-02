@@ -1,0 +1,17 @@
+Notification d&#39;enregistrement
+
+Vous vous êtes enregistré comme utilisateur à %url%
+
+Cliquer sur le lien pour confirmer votre compte:
+%activateurl%
+Si le lien ne fonctionne pas, copiez et insérez le dans votre navigateur web
+
+Id: %id_value%
+Fullname: %fullname_value%
+Last Name: %last_name_value%
+Groupid: %groupid_value%
+Modified At: %modified_at_value%
+Created At: %created_at_value%
+Deleted At: %deleted_at_value%
+Username: %username_value%
+Email: %email_value%

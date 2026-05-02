@@ -1,0 +1,22 @@
+...
+230
+109
+130
+271 26feb22 sab
+111.50 01mar22 mar
+115.50 08mar22 mar
+191    20mar22 dom 
+108.50 25mar22 vie
+112.50 26mar22 sab
+500 efectivo
+Papas y Refresco 28mar22 lun
+212.50 29mar22 mar
+101.50 31mar22 jue
+29 2abr22 sab  agua
+250*  4abr22 jamon, queso, refresco
+84 12 abr22
+131 13abr22
+127 18abr22 agua,salchi,huevo,leche
+184 25abr22 panpueblo, agua, salchi, torti, 
+174 4may22 coca, aguayaba, agua20litros
+

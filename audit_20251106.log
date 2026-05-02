@@ -1,0 +1,14 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Nov 06,2025	17:12:57	201.170.90.187	edgar_gomez	users	login
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	id	1947
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	folio	
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	fecha	
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	diasemana	
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	texto	----------------------------------------------------------------------------------- • 231125.0948.6 • ¥ • 241108.1915.5 • Ø • Documentacion Vehicular • Fermin Carra • Cliente • Operardor • Cliente • Operardor • DEPICITOS                                          •   https://www.gob.mx/banjercito/arti
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	importe	
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	deleted_at	
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	created_at	
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	updated_at	
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	tipo_de_documento	7
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	images_fs	
+Nov 06,2025	17:36:14	201.170.90.187	edgar_gomez	registro	delete	1947	documents_fs	

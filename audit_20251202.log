@@ -1,0 +1,14 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Dec 02,2025	03:53:23	187.250.250.56	edgar_gomez	users	login
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	id	2492
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	folio	
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	fecha	
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	diasemana	
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	texto	----------------------------------------------------------------------------------- • 240801.0305.4 • ¥ • • Documentacion Vehicular • Oscar Duran Becerra PepeCristo • Cliente Operador • #TTL               CA224738656 • Post-it              MEGA\MEGAsync\The Hitckhikers\180416\NEW\TTL\CA\Post-it  • T
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	importe	
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	deleted_at	
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	created_at	
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	updated_at	
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	tipo_de_documento	5
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	images_fs	
+Dec 02,2025	03:53:52	187.250.250.56	edgar_gomez	registro	delete	2492	documents_fs	

@@ -1,0 +1,7 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Oct 31,2022	17:53:52	189.202.91.200	edgar_gomez	users	login
+Oct 31,2022	22:07:55	189.202.91.200	edgar_gomez	users	login
+Oct 31,2022	22:32:07	189.202.91.200	edgar_gomez	registro	add	843	texto		----------------------------------------------------------------------------------- • 221031.1508.1•G• • MLP • Cinthia • Cliente Operador • MLP•0000•221031•T998496•CA0108     -----------------------------------------------------------------------------------  17M:    T998496 H045220 CA0108          
+Oct 31,2022	22:32:07	189.202.91.200	edgar_gomez	registro	add	843	tipo_de_documento		4
+Oct 31,2022	23:26:33	189.202.91.200	edgar_gomez	registro	add	844	texto		----------------------------------------------------------------------------------- • 221031.1250.1.•G• • MLP • Cinthia • Cliente Operador • MLP•0000•221031•C995830•CA2112   -----------------------------------------------------------------------------------  17M:    C995830 D017753 CA2112           
+Oct 31,2022	23:26:33	189.202.91.200	edgar_gomez	registro	add	844	tipo_de_documento		4

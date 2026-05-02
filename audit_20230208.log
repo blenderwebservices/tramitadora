@@ -1,0 +1,12 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Feb 08,2023	18:23:17	189.202.90.136	edgar_gomez	users	login
+Feb 08,2023	18:24:23	189.202.90.136	edgar_gomez	users	login
+Feb 08,2023	19:35:33	189.202.90.136	edgar_gomez	users	login
+Feb 08,2023	19:51:55	189.202.90.136	edgar_gomez	registro	add	1297	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:   S073506              
+Feb 08,2023	19:51:55	189.202.90.136	edgar_gomez	registro	add	1297	tipo_de_documento		1
+Feb 08,2023	19:51:58	189.202.90.136	edgar_gomez	registro	add	1298	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:   F007376              
+Feb 08,2023	19:51:58	189.202.90.136	edgar_gomez	registro	add	1298	tipo_de_documento		1
+Feb 08,2023	19:52:01	189.202.90.136	edgar_gomez	registro	add	1299	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:                     -- 
+Feb 08,2023	19:52:01	189.202.90.136	edgar_gomez	registro	add	1299	tipo_de_documento		1
+Feb 08,2023	21:10:57	189.202.90.136	edgar_gomez	users	login
+Feb 08,2023	21:44:02	189.203.34.118	edgar_gomez	users	login

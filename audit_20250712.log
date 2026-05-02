@@ -1,0 +1,14 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jul 12,2025	05:08:15	189.223.69.74	edgar_gomez	users	login
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	id	2277
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	folio	
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	fecha	
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	diasemana	
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	texto	----------------------------------------------------------------------------------- • 241210.1402.2 • ¥ • Documentacion Vehicular • Aldo Gómez Pérez • PATRICIA SUZANNE HILLIS • DEPICITOS                                          •   https://www.gob.mx/banjercito/articulos/sistema-de-importacion-tempo
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	importe	
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	deleted_at	
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	created_at	
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	updated_at	
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	tipo_de_documento	10
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	images_fs	
+Jul 12,2025	05:32:07	189.223.69.74	edgar_gomez	registro	delete	2277	documents_fs	

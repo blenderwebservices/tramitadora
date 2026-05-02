@@ -1,0 +1,37 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Mar 25,2025	02:10:28	201.170.89.166	edgar_gomez	users	login
+Mar 25,2025	02:10:58	201.170.89.166	edgar_gomez	registro	add	2735	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Regularizacion • Operador • Cliente • Operardor • CURP:                                                 https://www.gob.mx/curp/   • RFC:                                                    https://c
+Mar 25,2025	02:10:58	201.170.89.166	edgar_gomez	registro	add	2735	tipo_de_documento		5
+Mar 25,2025	02:14:41	201.170.89.166	edgar_gomez	users	login
+Mar 25,2025	15:22:16	201.170.89.166	edgar_gomez	users	login
+Mar 25,2025	15:28:54	201.170.89.166	edgar_gomez	registro	add	2736	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • Cliente Operador • RCRD                              http://apps.bcs.gob.mx/pedimento/pedimento.php  • Entidades • (u21156)2     http://entida
+Mar 25,2025	15:28:54	201.170.89.166	edgar_gomez	registro	add	2736	tipo_de_documento		9
+Mar 25,2025	15:30:58	201.170.89.166	edgar_gomez	registro	add	2737	texto		----------------------------------------------------------------------------------- • 000000.0000.0 • Documentacion Vehicular • Operador • Cliente • Operardor • Cliente • Operardor • DEPICITOS                                          •   https://www.gob.mx/banjercito/articulos/sistema-de-importacion
+Mar 25,2025	15:30:58	201.170.89.166	edgar_gomez	registro	add	2737	tipo_de_documento		7
+Mar 25,2025	15:31:14	201.170.89.166	edgar_gomez	registro	add	2738	texto		----------------------------------------------------------------------------------- • 777777.7777.7 • Documentacion Vehicular • Operador • Cliente Operador • Cliente Operador • RCRD                              http://apps.bcs.gob.mx/pedimento/pedimento.php  • Entidades • (u21156)2     http://entida
+Mar 25,2025	15:31:14	201.170.89.166	edgar_gomez	registro	add	2738	tipo_de_documento		9
+Mar 25,2025	20:39:32	201.170.89.166	edgar_gomez	users	login
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	id	2605
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	folio	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	fecha	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	diasemana	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	texto	----------------------------------------------------------------------------------- • 241127.1653.3 • Ø • • Documentacion Vehicular • Williams Wittmann Zimmerman • Cliente Operador • Cliente Operador • RCRD                              http://apps.bcs.gob.mx/pedimento/pedimento.php  • Entidades • (u
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	importe	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	deleted_at	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	created_at	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	updated_at	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	tipo_de_documento	9
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	images_fs	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2605	documents_fs	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	id	2720
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	folio	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	fecha	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	diasemana	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	texto	----------------------------------------------------------------------------------- • 250304.0143.2 • Ø • • Documentacion Vehicular • Williams Wittmann Zimmerman • Cliente Operador • Cliente Operador • RCRD                              http://apps.bcs.gob.mx/pedimento/pedimento.php  • Entidades • (u
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	importe	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	deleted_at	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	created_at	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	updated_at	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	tipo_de_documento	9
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	images_fs	
+Mar 25,2025	20:40:15	201.170.89.166	edgar_gomez	registro	delete	2720	documents_fs	

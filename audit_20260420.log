@@ -1,0 +1,15 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Apr 20,2026	17:27:47	189.223.63.102	edgar_gomez	users	login
+Apr 20,2026	18:38:38	189.223.63.102	edgar_gomez	users	login
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	id	1776
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	folio	
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	fecha	
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	diasemana	
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	texto	----------------------------------------------------------------------------------- • 230904.1417.1 • ¥ • Documentacion Vehicular • Leonardo Virgen • Cliente Operador • DCVH•0000•230904•F176804     -----------------------------------------------------------------------------------  17M:   F176804   
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	importe	
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	deleted_at	
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	created_at	
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	updated_at	
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	tipo_de_documento	8
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	images_fs	
+Apr 20,2026	19:38:51	189.223.63.102	edgar_gomez	registro	delete	1776	documents_fs	

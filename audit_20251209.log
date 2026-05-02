@@ -1,0 +1,15 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Dec 09,2025	17:57:17	187.250.250.56	edgar_gomez	users	login
+Dec 09,2025	19:06:39	187.250.250.56	edgar_gomez	users	login
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	id	973
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	folio	
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	fecha	
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	diasemana	
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	texto	----------------------------------------------------------------------------------- •221128.1614.1-22120.1155.2.•G• • Documentacion Vehicular • Operador • Leonardo Virgen • DCVH•0000•221128•F176804•     -----------------------------------------------------------------------------------  17M:    F176
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	importe	
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	deleted_at	
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	created_at	
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	updated_at	
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	tipo_de_documento	1
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	images_fs	
+Dec 09,2025	19:06:49	187.250.250.56	edgar_gomez	registro	delete	973	documents_fs	

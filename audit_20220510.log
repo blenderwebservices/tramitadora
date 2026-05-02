@@ -1,0 +1,9 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+May 10,2022	02:47:41	::1	francisco_gomez	users	login
+May 10,2022	03:09:23	::1	francisco_gomez	registro	edit	3	tipo_de_documento		1
+May 10,2022	03:49:58	::1	francisco_gomez	registro	edit	3	tipo_de_documento	1	2
+May 10,2022	03:50:32	::1	francisco_gomez	registro	edit	4	tipo_de_documento		3
+May 10,2022	07:02:41	::1	francisco_gomez	registro	add	5	texto		----------------------------------------------------------------------------------- 777777.7777.7 • OLJ -----------------------------------------------------------------------------------  17M:                     --     DTS:                             --                        --                  
+May 10,2022	07:02:41	::1	francisco_gomez	registro	add	5	tipo_de_documento		3
+May 10,2022	07:08:09	::1	francisco_gomez	registro	add	6	texto		----------------------------------------------------------------------------------- 777777.7777.7 • Documentacion Vehicular -----------------------------------------------------------------------------------  17M:                     --     DTS:                             --                        
+May 10,2022	07:08:09	::1	francisco_gomez	registro	add	6	tipo_de_documento		1

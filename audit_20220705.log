@@ -1,0 +1,16 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jul 05,2022	00:27:36	187.190.194.183	francisco_gomez	users	login
+Jul 05,2022	02:37:02	187.190.194.183	francisco_gomez	users	login
+Jul 05,2022	03:53:00	189.202.91.200	edgar_gomez	users	login
+Jul 05,2022	03:55:31	189.202.91.200	edgar_gomez	registro	add	258	texto		----------------------------------------------------------------------------------- 22074.1755.1 • Documentacion Vehicular • Edgar • Sarah Connor • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    C030748                  --   
+Jul 05,2022	03:55:31	189.202.91.200	edgar_gomez	registro	add	258	tipo_de_documento		1
+Jul 05,2022	06:19:58	189.202.91.200	edgar_gomez	users	login
+Jul 05,2022	06:22:11	189.202.91.200	edgar_gomez	registro	add	259	texto		----------------------------------------------------------------------------------- • 220601.3 • ¥ •  • Agenda -----------------------------------------------------------------------------------  • Malo Maldad malvado  
+Jul 05,2022	06:22:11	189.202.91.200	edgar_gomez	registro	add	259	tipo_de_documento		6
+Jul 05,2022	15:35:42	189.202.91.200	edgar_gomez	users	login
+Jul 05,2022	18:07:53	189.202.91.200	edgar_gomez	users	login
+Jul 05,2022	19:24:15	189.202.91.200	edgar_gomez	users	login
+Jul 05,2022	19:24:17	189.202.91.200	edgar_gomez	registro	add	260	texto		----------------------------------------------------------------------------------- • 220705.1108.2 • Documentacion Vehicular • Alejandro Roque Virgen • Cliente Operador • DCVH•0000•220705•F061307     -----------------------------------------------------------------------------------  17M:   F061307
+Jul 05,2022	19:24:17	189.202.91.200	edgar_gomez	registro	add	260	tipo_de_documento		1
+Jul 05,2022	22:11:07	189.202.91.200	edgar_gomez	users	login
+Jul 05,2022	22:51:26	189.202.91.200	edgar_gomez	users	login

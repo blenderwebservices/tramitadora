@@ -1,0 +1,17 @@
+#Configurar servidor de licencias
+$obj = gwmi -namespace "Root/CIMV2/TerminalServices" Win32_TerminalServiceSetting
+$obj.SetSpecifiedLicenseServerList("nombre_servidor_licencias")
+
+#Configurar modo de licenciamiento
+$obj = gwmi -namespace "Root/CIMV2/TerminalServices" Win32_TerminalServiceSetting
+$obj.ChangeMode(value) - Value puede ser 2 - per Device, 4 - Per user
+
+#Verificar el servidor de licencias
+$obj = gwmi -namespace "Root/CIMV2/TerminalServices" Win32_TerminalServiceSetting
+$obj.GetSpecifiedLicenseServerList()
+
+#Verificar el modo de licenciamiento
+$obj = gwmi -namespace "Root/CIMV2/TerminalServices" Win32_TerminalServiceSetting
+$obj. LicensingType
+$obj.LicensingName
+

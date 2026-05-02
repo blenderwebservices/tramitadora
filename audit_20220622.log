@@ -1,0 +1,12 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Jun 22,2022	01:47:24	189.202.91.200	edgar_gomez	users	login
+Jun 22,2022	04:10:44	189.202.91.200	edgar_gomez	users	login
+Jun 22,2022	04:10:46	189.202.91.200	edgar_gomez	registro	add	216	texto		----------------------------------------------------------------------------------- 220621.1830.2 • Documentacion Vehicular • Operador • Leonardo Virgen • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    H146117                
+Jun 22,2022	04:10:46	189.202.91.200	edgar_gomez	registro	add	216	tipo_de_documento		1
+Jun 22,2022	17:04:29	189.202.91.200	edgar_gomezEd	users	failed login
+Jun 22,2022	17:04:35	189.202.91.200	edgar_gomezEd	users	failed login
+Jun 22,2022	17:04:53	189.202.91.200	edgar_gomez	users	login
+Jun 22,2022	17:30:39	189.202.91.200	edgar_gomez	registro	add	217	texto		----------------------------------------------------------------------------------- 220622.1007.3 • Documentacion Vehicular • Mari  • francisco PRUEBA CAPACITACION  • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:       V994670 
+Jun 22,2022	17:30:39	189.202.91.200	edgar_gomez	registro	add	217	tipo_de_documento		1
+Jun 22,2022	19:45:40	189.202.91.200	edgar_gomez	users	login
+Jun 22,2022	23:15:11	189.202.91.200	edgar_gomez	users	login

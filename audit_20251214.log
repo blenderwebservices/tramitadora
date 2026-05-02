@@ -1,0 +1,26 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Dec 14,2025	08:05:25	187.250.250.56	edgar_gomez	users	login
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	id	280
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	folio	
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	fecha	
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	diasemana	
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	texto	----------------------------------------------------------------------------------- • 220711.1611.2 • Documentacion Vehicular • Edgar • Luis Gonzalez • DCVH•0000•000000•0000000     -----------------------------------------------------------------------------------  17M:    N012118                 --
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	importe	
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	deleted_at	
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	created_at	
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	updated_at	
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	tipo_de_documento	1
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	images_fs	
+Dec 14,2025	08:05:51	187.250.250.56	edgar_gomez	registro	delete	280	documents_fs	
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	id	1991
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	folio	
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	fecha	
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	diasemana	
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	texto	----------------------------------------------------------------------------------- • 231209.1839.6 • ¥ • Documentacion Vehicular • Fermin Carra • Cliente • Operardor • Cliente • Operardor • DEPICITOS                                          •   https://www.gob.mx/banjercito/articulos/sistema-de-imp
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	importe	
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	deleted_at	
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	created_at	
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	updated_at	
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	tipo_de_documento	7
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	images_fs	
+Dec 14,2025	08:45:57	187.250.250.56	edgar_gomez	registro	delete	1991	documents_fs	
